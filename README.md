@@ -2,8 +2,8 @@
 
 <h1>Oi, eu sou a Talita!</h1>
 
-Sou uma entusiasta da programação e embora não seja da área da tecnologia, tenho dedicado meu tempo livre para estudar e praticar. <br><br>
-Tenho estudado:<br>
+Sou uma entusiasta da programação e embora não seja da área da tecnologia, tenho dedicado meu tempo livre para estudar e praticar. Procuro desafios, quero criar e colaborar! Atualmente meu foco está direcionado a Desenvolvimento Web, mas pretendo aprender muito mais.<br><br>
+Tenho estudado:
 * **Javascript**;
 * **HTML**;
 * **CSS**.
