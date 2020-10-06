@@ -1,4 +1,4 @@
-![binario](https://user-images.githubusercontent.com/71895567/95155901-98b7a780-076b-11eb-8158-a44d54d813ca.jpeg)
+![binario](https://user-images.githubusercontent.com/71895567/95156523-247e0380-076d-11eb-8381-7eb1e3e3e2cd.jpg)
 
 <h1>Oi, eu sou a Talita!</h1>
 
