@@ -1,4 +1,4 @@
- <h1>Oi, eu sou a Talita!
+ <h1>Oi, eu sou a Talita!</h1>
 
 Sou uma entusiasta da programação e embora não seja da área da tecnologia, tenho dedicado meu tempo livre para estudar e praticar. <br><br>
 Tenho estudado:<br>
