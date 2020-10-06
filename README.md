@@ -1,4 +1,6 @@
- <h1>Oi, eu sou a Talita!</h1>
+![binario](https://user-images.githubusercontent.com/71895567/95155901-98b7a780-076b-11eb-8158-a44d54d813ca.jpeg)
+
+<h1>Oi, eu sou a Talita!</h1>
 
 Sou uma entusiasta da programação e embora não seja da área da tecnologia, tenho dedicado meu tempo livre para estudar e praticar. <br><br>
 Tenho estudado:<br>
