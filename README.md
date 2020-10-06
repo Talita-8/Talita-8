@@ -1,4 +1,10 @@
-### Hi there 👋
+ <h1>Oi, eu sou a Talita!
+
+Sou uma entusiasta da programação e embora não seja da área da tecnologia, tenho dedicado meu tempo livre para estudar e praticar. <br><br>
+Tenho estudado:<br>
+* **Javascript**;
+* **HTML**;
+* **CSS**.
 
 <!--
 **Talita-8/Talita-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
