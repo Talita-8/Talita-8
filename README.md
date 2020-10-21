@@ -8,7 +8,7 @@ Tenho estudado:
 * **HTML**;
 * **CSS**.
 
-Contate-me: [LinkedIn Profile](https://www.linkedin.com/in/talita-silva-8243561b6)
+:bust_in_silhouette: [LinkedIn Profile](https://www.linkedin.com/in/talita-silva-8243561b6)
 
 <!--
 **Talita-8/Talita-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
