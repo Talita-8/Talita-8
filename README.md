@@ -2,7 +2,7 @@
 
 <h1>Oi, eu sou a Talita!</h1>
 
-Sou uma entusiasta e estudante de programação, tenho dedicado meu tempo livre para estudar e praticar. Procuro desafios, quero criar e colaborar! Atualmente meu foco está direcionado a Desenvolvimento Web, mas pretendo aprender muito mais.<br><br>
+Sou uma entusiasta e estudante de programação, tenho dedicado meu tempo livre para estudar e praticar. Atualmente meu foco está direcionado a Desenvolvimento Web, mas pretendo aprender muito mais.<br><br>
 Tenho estudado:
 * **Javascript**;
 * **HTML**;
