@@ -1,12 +1,14 @@
-![binario](https://user-images.githubusercontent.com/71895567/95156523-247e0380-076d-11eb-8381-7eb1e3e3e2cd.jpg)
+
 
 <h1>Oi, eu sou a Talita!</h1>
 
-Sou uma entusiasta e estudante de programação, tenho dedicado meu tempo livre para estudar e praticar. Atualmente meu foco está direcionado a Desenvolvimento Web, mas pretendo aprender muito mais.<br><br>
+Sou uma entusiasta e estudante de programação. Atualmente faço parte da quinta geração da Laboratória, onde aprendo Desenvolvimento  Web Front-End.<br><br>
 Tenho estudado:
 * **Javascript**;
 * **HTML**;
-* **CSS**.
+* **CSS**;
+* **React**;
+* **Firebase**.
 
 :bust_in_silhouette: [LinkedIn Profile](https://www.linkedin.com/in/talita-silva-8243561b6)
 
