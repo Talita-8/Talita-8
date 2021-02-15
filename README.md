@@ -2,15 +2,9 @@
 
 <h1>Oi, eu sou a Talita!</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talita-8&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Plataform-Firebase-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talita-8&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talita-8&theme=tokyonight&exclude_repo=AppLove,percentage,CoresDeSP,30_Dias_de_CSS,Next_Level_Week3,reviewing-a-pull-request,oficina-git-dupla&layout=compact)](https://github.com/Talita-8/github-readme-stats)
+
 
 Sou uma entusiasta da tecnologia e estudante de programação. Atualmente faço parte da quinta geração da Laboratória, onde aprendo Desenvolvimento  Web Front-End.<br><br>
 Tenho estudado:
