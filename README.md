@@ -2,7 +2,7 @@
 
 <h1>Oi, eu sou a Talita!</h1>
 
- 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talita-8&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Sou uma entusiasta da tecnologia e estudante de programação. Atualmente faço parte da quinta geração da Laboratória, onde aprendo Desenvolvimento  Web Front-End.<br><br>
 Tenho estudado:
