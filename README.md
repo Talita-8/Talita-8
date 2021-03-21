@@ -2,10 +2,7 @@
 
 
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talita-8&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talita-8&theme=tokyonight&exclude_repo=AppLove,percentage,reviewing-a-pull-request,oficina-git-dupla,reproducaoPinterest,Oficina-React&layout=compact)](https://github.com/Talita-8/github-readme-stats)
 
 :bust_in_silhouette: [LinkedIn Profile](https://www.linkedin.com/in/talita-silva-8243561b6)
 
